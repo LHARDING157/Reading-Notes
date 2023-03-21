@@ -11,11 +11,11 @@
 
 ## Answers
 
-1. Markdown is a lightweight markup language
-2. It's very versatile and can be opened with most aplications eg. microsoft word.
+1. Markdown is a lightweight mark-up language
+2. It's very versatile and can be opened with most applications eg. Microsoft word.
 3. Hashtag (#)
 4. Biggest heading is only # (1)
 5. Smallest heading is ###### (6)
-6. Astrix (*)
+6. Asterix (*)
 7. To create a link its [Words](URL Link) eg. [Go to Google](google.com)
 8. For unordered lists >>> - / * / +
