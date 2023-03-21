@@ -18,4 +18,4 @@
 5. Smallest heading is ###### (6)
 6. Asterix (*)
 7. To create a link its [Words](URL Link) eg. [Go to Google](google.com)
-8. For unordered lists >>> - / * / +
+8. For unordered lists >> - / * / +
