@@ -1,12 +1,12 @@
 # Reading Notes
 
-### Document Content
+## Document Content
 
 1. Intro
 2. Growth Mindset/Ways to stay in this Mindset.
 3. GitHub Link
   
-#### Introduction
+### Introduction
 
 Hi my name is Luke and i am a student :D  
 My hobbies are:
@@ -36,3 +36,7 @@ This mardown file has been created using thedemo shown as a reference to create 
 ### Have a goodluck Cookie :D
 
 ![This is a COOKIE](https://www.pngkey.com/png/full/199-1994576_cookie-vector-png-cookie-clip-art-png.png)
+  
+#### **Course 102**
+  
+- [Class 01 - Growth mindset](https://lharding157.github.io/Reading-Notes/code-102/102class-01)
