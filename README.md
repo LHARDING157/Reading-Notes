@@ -19,7 +19,7 @@ Outside of the course I am on, I spend most of my free time reading and playing 
   
 #### About Reading Notes
 
-This mardown file has been created using thedemo shown as a reference to create showing me the basics of a markdown.  
+This mardown file has been created using the demo shown as a reference to create showing me the basics of a markdown.  
   
 #### Growth Mindset
 >
