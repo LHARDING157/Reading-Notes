@@ -1,4 +1,4 @@
-# What I learnt
+# Things Learnt
 
 - How to access my github files from clound and local.
 - How to clone github files.
